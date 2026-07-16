@@ -29,3 +29,8 @@ No test runner is configured yet. If adding tests, wire the script into `package
 ## Project intent & workflow
 
 Arcade Vault is a platform to play games online and compete for the highest score (see `README.md`, in Spanish). Development follows **Spec-Driven Design** using the `/spec` and `/spec-impl` skills from [Klerith/fernando-skills](https://github.com/Klerith/fernando-skills) (`npx skills@latest add Klerith/fernando-skills`). Draft a spec before implementing features.
+
+
+## Skills
+
+Usa siempre /frontend-design para diseñar interfaces de usuario
