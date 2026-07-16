@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Prototipo original: React por UMD, no forma parte del código de la app.
+    "references/**",
   ]),
 ]);
 
