@@ -14,4 +14,11 @@ https://github.com/Klerith/fernando-skills
 ```bash
 npx skills@latest add Klerith/fernando-skills
 ```
-# Hola mundo
+# comandos para levantar la app
+
+'''bash
+
+npm run dev    # start produccion
+npm run build  # production build
+npom run start # serve production build
+npm run lint   #  Eslint
