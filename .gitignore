@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+.playwright-screenshots/*
+.playwright-mcp/*
+
+
 # dependencies
 /node_modules
 /.pnp
@@ -19,6 +23,10 @@
 
 # production
 /build
+
+# playwright
+/.playwright-screenshots/
+/.playwright-mcp/
 
 # misc
 .DS_Store
